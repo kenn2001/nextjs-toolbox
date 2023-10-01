@@ -7,11 +7,14 @@ export default function Header({ title }) {
         <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
         <a href="https://www.netlify.com/products/functions/">
           Netlify Functions
+            <a href="https://kenumerique.com/">
+          KENUMERIQUE
         </a>
         , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
         <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
         aim was to give you the code you would need to hit the ground running
         with a few fun features.
+          
       </p>
 
       <p>
